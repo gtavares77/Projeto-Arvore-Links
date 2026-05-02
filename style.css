@@ -22,7 +22,7 @@
 }
 
 .light {
-  --text-color: black;
+  --bg-color: black;
   --bg-url: url(./assets/bg-mobile-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.1);
@@ -405,4 +405,3 @@ footer {
     left: 0;
   }
 }
-
